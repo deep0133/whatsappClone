@@ -36,6 +36,7 @@
 
     Nodejs
     Express
+    Mongodb (Data Base)
     SocketIo
 
     Extra : json web token, bcryptjs (for messages), multer (to handle profile pic)
