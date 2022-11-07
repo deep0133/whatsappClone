@@ -18,7 +18,7 @@
     emoji also send during messages
     delete or clear all chat of specific room
 
-## security:
+## Security:
 
     Password is secured with json web token
     messages are end to end encrypted
@@ -26,13 +26,13 @@
 
 ## Technogoly use:
 
-FOR FRONTED :
+### FOR FRONTED :
 
     Reactjs
     Tailwind css
     socketio-client
 
-FOR BACKEND :
+### FOR BACKEND :
 
     Nodejs
     Express
